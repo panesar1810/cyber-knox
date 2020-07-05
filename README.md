@@ -1,4 +1,4 @@
-# cyber-knox
+# Cyber Knox 
 Banking application developed with Spring Boot 2 (Java).
 - Used Model View Controller pattern
 - MySQL database connectivity
